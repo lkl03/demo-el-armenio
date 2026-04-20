@@ -1,2 +1,7 @@
-# demo-el-armenio
-Demo web para El Armenio — diseñada por eterlab.
+# El Armenio
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
